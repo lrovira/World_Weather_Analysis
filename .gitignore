@@ -5,6 +5,8 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 
+# Google API Key
+g_key = "AIzaSyAsPCZN_pUWr0DfUKJQ3nYZa830HU8j3_Y"
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
